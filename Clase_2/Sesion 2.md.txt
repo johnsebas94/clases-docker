@@ -1,0 +1,12 @@
+sesion 2
+se hace un modulo por contenedor
+Sudo docker-compose up -d
+Ip a s
+
+sudo usermod -aG docker
+sudo systemctl status docker
+sudo systemctl enable docker
+
+ver video https://jsgiraldoh.io/Blog/Estructura-de-comandos/
+
+johansebastiangh@gmail.com
