@@ -1,4 +1,4 @@
-#**Docker**
+# **Docker**
 
 Docker es una tecnologia de contenarizaciones de aplicaciones es decir tener
 aplicaciones autocontenidas que me permitan ejecutarlo en cualquier maquina, es similar a una
